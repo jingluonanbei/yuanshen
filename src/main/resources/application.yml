@@ -1,0 +1,10 @@
+server:
+  port: 8090
+spring:
+  datasource:
+    name:
+    url:
+    username:
+    password:
+    driver-class-name:
+
